@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/stock_analysis_pipeline.git
+git clone https://github.com/b-kenneth/Group3-Week1-Lab.git
 cd stock_analysis_pipeline
 ```
 
